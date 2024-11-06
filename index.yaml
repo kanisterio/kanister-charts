@@ -2110,7 +2110,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io.s3-us-west-2.amazonaws.com/kanister-operator-0.108.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.108.0.tgz
     - https://charts.kanister.io/kanister-operator-0.108.0.tgz
     version: 0.108.0
   - apiVersion: v1
