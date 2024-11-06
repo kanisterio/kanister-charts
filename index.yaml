@@ -25,7 +25,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.32.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.32.0.tgz
     version: 0.32.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -51,7 +51,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.31.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.31.0.tgz
     version: 0.31.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -77,7 +77,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.30.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.30.0.tgz
     version: 0.30.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -103,7 +103,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.30.0-1-g01816cf.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.30.0-1-g01816cf.tgz
     version: 0.30.0-1-g01816cf
   - apiVersion: v1
     appVersion: 6.3.1
@@ -129,7 +129,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.29.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.29.0.tgz
     version: 0.29.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -155,7 +155,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.28.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.28.0.tgz
     version: 0.28.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -181,7 +181,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.27.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.27.0.tgz
     version: 0.27.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -207,7 +207,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.26.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.26.0.tgz
     version: 0.26.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -233,7 +233,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.25.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.25.0.tgz
     version: 0.25.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -259,7 +259,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.24.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.24.0.tgz
     version: 0.24.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -285,7 +285,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.23.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.23.0.tgz
     version: 0.23.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -311,7 +311,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.22.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.22.0.tgz
     version: 0.22.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -337,7 +337,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.21.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.21.0.tgz
     version: 0.21.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -363,7 +363,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.20.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.20.0.tgz
     version: 0.20.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -389,7 +389,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.19.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.19.0.tgz
     version: 0.19.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -415,7 +415,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.18.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.18.0.tgz
     version: 0.18.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -441,7 +441,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.18.0-3-gae6a06c.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.18.0-3-gae6a06c.tgz
     version: 0.18.0-3-gae6a06c
   - apiVersion: v1
     appVersion: 6.3.1
@@ -467,7 +467,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.17.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.17.0.tgz
     version: 0.17.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -493,7 +493,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.16.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.16.0.tgz
     version: 0.16.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -519,7 +519,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.15.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.15.0.tgz
     version: 0.15.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -545,7 +545,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.14.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.14.0.tgz
     version: 0.14.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -571,7 +571,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.13.1.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.13.1.tgz
     version: 0.13.1
   - apiVersion: v1
     appVersion: 6.3.1
@@ -597,7 +597,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.13.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.13.0.tgz
     version: 0.13.0
   - apiVersion: v1
     appVersion: 6.3.1
@@ -623,7 +623,7 @@ entries:
     - https://github.com/clockworksoul/helm-elasticsearch
     - https://github.com/pires/kubernetes-elasticsearch-cluster
     urls:
-    - https://charts.kanister.io/kanister-elasticsearch-0.12.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-elasticsearch-0.12.0.tgz
     version: 0.12.0
   kanister-mongodb-replicaset:
   - apiVersion: v1
@@ -645,7 +645,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.32.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.32.0.tgz
     version: 0.32.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -666,7 +666,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.31.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.31.0.tgz
     version: 0.31.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -687,7 +687,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.30.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.30.0.tgz
     version: 0.30.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -708,7 +708,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.30.0-1-g01816cf.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.30.0-1-g01816cf.tgz
     version: 0.30.0-1-g01816cf
   - apiVersion: v1
     appVersion: "3.6"
@@ -729,7 +729,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.29.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.29.0.tgz
     version: 0.29.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -750,7 +750,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.28.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.28.0.tgz
     version: 0.28.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -771,7 +771,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.27.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.27.0.tgz
     version: 0.27.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -792,7 +792,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.26.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.26.0.tgz
     version: 0.26.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -813,7 +813,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.25.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.25.0.tgz
     version: 0.25.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -834,7 +834,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.24.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.24.0.tgz
     version: 0.24.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -855,7 +855,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.23.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.23.0.tgz
     version: 0.23.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -876,7 +876,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.22.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.22.0.tgz
     version: 0.22.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -897,7 +897,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.21.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.21.0.tgz
     version: 0.21.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -918,7 +918,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.20.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.20.0.tgz
     version: 0.20.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -939,7 +939,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.19.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.19.0.tgz
     version: 0.19.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -960,7 +960,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.18.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.18.0.tgz
     version: 0.18.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -981,7 +981,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.18.0-3-gae6a06c.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.18.0-3-gae6a06c.tgz
     version: 0.18.0-3-gae6a06c
   - apiVersion: v1
     appVersion: "3.6"
@@ -1002,7 +1002,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.17.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.17.0.tgz
     version: 0.17.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -1023,7 +1023,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.16.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.16.0.tgz
     version: 0.16.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -1044,7 +1044,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.15.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.15.0.tgz
     version: 0.15.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -1065,7 +1065,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.14.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.14.0.tgz
     version: 0.14.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -1086,7 +1086,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.13.1.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.13.1.tgz
     version: 0.13.1
   - apiVersion: v1
     appVersion: "3.6"
@@ -1107,7 +1107,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.13.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.13.0.tgz
     version: 0.13.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -1128,7 +1128,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.12.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.12.0.tgz
     version: 0.12.0
   - apiVersion: v1
     appVersion: "3.6"
@@ -1149,7 +1149,7 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.11.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.11.0.tgz
     version: 0.11.0
   - apiVersion: v1
     created: "2018-06-29T16:58:11.747309966-07:00"
@@ -1166,7 +1166,7 @@ entries:
     sources:
     - https://github.com/mongodb/mongo
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.10.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.10.0.tgz
     version: 0.10.0
   - apiVersion: v1
     created: "2018-06-20T23:35:13.511532767-07:00"
@@ -1183,7 +1183,7 @@ entries:
     sources:
     - https://github.com/mongodb/mongo
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.9.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v1
     created: "2018-06-17T22:46:02.348998738-07:00"
@@ -1200,7 +1200,7 @@ entries:
     sources:
     - https://github.com/mongodb/mongo
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.8.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v1
     appVersion: 2.1.2
@@ -1218,7 +1218,7 @@ entries:
     sources:
     - https://github.com/mongodb/mongo
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.7.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v1
     created: "2018-05-11T14:13:49.722935979-07:00"
@@ -1235,7 +1235,7 @@ entries:
     sources:
     - https://github.com/mongodb/mongo
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.6.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v1
     appVersion: 2.1.2
@@ -1253,7 +1253,7 @@ entries:
     sources:
     - https://github.com/mongodb/mongo
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-0.5.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     appVersion: 2.1.2
@@ -1271,7 +1271,7 @@ entries:
     sources:
     - https://github.com/mongodb/mongo
     urls:
-    - https://charts.kanister.io/kanister-mongodb-replicaset-v0.4.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mongodb-replicaset-v0.4.0.tgz
     version: v0.4.0
   kanister-mysql:
   - apiVersion: v1
@@ -1296,7 +1296,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.32.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.32.0.tgz
     version: 0.32.0
   - apiVersion: v1
     appVersion: 5.7.14
@@ -1320,7 +1320,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.31.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.31.0.tgz
     version: 0.31.0
   - apiVersion: v1
     appVersion: 5.7.14
@@ -1344,7 +1344,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.30.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.30.0.tgz
     version: 0.30.0
   - apiVersion: v1
     appVersion: 5.7.14
@@ -1368,7 +1368,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.30.0-1-g01816cf.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.30.0-1-g01816cf.tgz
     version: 0.30.0-1-g01816cf
   - apiVersion: v1
     appVersion: 5.7.14
@@ -1392,7 +1392,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.29.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.29.0.tgz
     version: 0.29.0
   - apiVersion: v1
     appVersion: 5.7.14
@@ -1416,7 +1416,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.28.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.28.0.tgz
     version: 0.28.0
   - apiVersion: v1
     appVersion: 5.7.14
@@ -1440,7 +1440,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.27.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.27.0.tgz
     version: 0.27.0
   - apiVersion: v1
     appVersion: 5.7.14
@@ -1464,7 +1464,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.26.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.26.0.tgz
     version: 0.26.0
   - apiVersion: v1
     appVersion: 5.7.14
@@ -1488,7 +1488,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.25.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.25.0.tgz
     version: 0.25.0
   - apiVersion: v1
     appVersion: 5.7.14
@@ -1512,7 +1512,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.24.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.24.0.tgz
     version: 0.24.0
   - apiVersion: v1
     appVersion: 5.7.14
@@ -1536,7 +1536,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.23.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.23.0.tgz
     version: 0.23.0
   - apiVersion: v1
     appVersion: 5.7.14
@@ -1560,7 +1560,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.22.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.22.0.tgz
     version: 0.22.0
   - apiVersion: v1
     appVersion: 5.7.14
@@ -1584,7 +1584,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.21.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.21.0.tgz
     version: 0.21.0
   - apiVersion: v1
     appVersion: 5.7.14
@@ -1608,7 +1608,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.20.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.20.0.tgz
     version: 0.20.0
   - apiVersion: v1
     appVersion: 5.7.14
@@ -1632,7 +1632,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.19.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.19.0.tgz
     version: 0.19.0
   - apiVersion: v1
     appVersion: 5.7.14
@@ -1656,7 +1656,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.18.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.18.0.tgz
     version: 0.18.0
   - apiVersion: v1
     appVersion: 5.7.14
@@ -1680,7 +1680,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.18.0-3-gae6a06c.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.18.0-3-gae6a06c.tgz
     version: 0.18.0-3-gae6a06c
   - apiVersion: v1
     appVersion: 5.7.14
@@ -1704,7 +1704,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.17.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.17.0.tgz
     version: 0.17.0
   - apiVersion: v1
     created: "2019-01-03T17:01:35.257-08:00"
@@ -1727,7 +1727,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.16.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.16.0.tgz
     version: 0.16.0
   - apiVersion: v1
     created: "2018-12-09T20:28:25.478078653-08:00"
@@ -1750,7 +1750,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.15.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.15.0.tgz
     version: 0.15.0
   - apiVersion: v1
     created: "2018-12-03T16:48:44.644737-08:00"
@@ -1773,7 +1773,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.14.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.14.0.tgz
     version: 0.14.0
   - apiVersion: v1
     created: "2018-11-05T17:26:51.287806-08:00"
@@ -1796,7 +1796,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.13.1.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.13.1.tgz
     version: 0.13.1
   - apiVersion: v1
     created: "2018-10-23T19:50:33.90311675Z"
@@ -1819,7 +1819,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.13.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.13.0.tgz
     version: 0.13.0
   - apiVersion: v1
     created: "2018-10-02T10:35:42.375570426-07:00"
@@ -1842,7 +1842,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.12.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.12.0.tgz
     version: 0.12.0
   - apiVersion: v1
     created: "2018-08-17T15:59:18.273740556-07:00"
@@ -1865,7 +1865,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.11.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.11.0.tgz
     version: 0.11.0
   - apiVersion: v1
     created: "2018-06-29T16:58:15.618502468-07:00"
@@ -1888,7 +1888,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.10.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.10.0.tgz
     version: 0.10.0
   - apiVersion: v1
     created: "2018-06-20T23:35:17.665747816-07:00"
@@ -1911,7 +1911,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.9.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v1
     created: "2018-06-17T22:46:06.831123365-07:00"
@@ -1934,7 +1934,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.8.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v1
     appVersion: 1.1.2
@@ -1958,7 +1958,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.7.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v1
     created: "2018-05-11T14:13:54.368492621-07:00"
@@ -1981,7 +1981,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.6.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v1
     appVersion: 1.1.2
@@ -2005,7 +2005,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-0.5.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     appVersion: 1.1.2
@@ -2029,7 +2029,7 @@ entries:
     - https://github.com/docker-library/mysql
     - https://kanister.io/
     urls:
-    - https://charts.kanister.io/kanister-mysql-v0.4.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-mysql-v0.4.0.tgz
     version: v0.4.0
   kanister-operator:
   - apiVersion: v1
@@ -2062,7 +2062,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.111.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.111.0.tgz
     version: 0.111.0
   - apiVersion: v1
     appVersion: 0.110.0
@@ -2078,7 +2078,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.110.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.110.0.tgz
     version: 0.110.0
   - apiVersion: v1
     appVersion: 0.109.0
@@ -2094,7 +2094,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.109.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.109.0.tgz
     version: 0.109.0
   - apiVersion: v1
     appVersion: 0.108.0
@@ -2111,7 +2111,6 @@ entries:
     name: kanister-operator
     urls:
     - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.108.0.tgz
-    - https://charts.kanister.io/kanister-operator-0.108.0.tgz
     version: 0.108.0
   - apiVersion: v1
     appVersion: 0.107.0
@@ -2127,7 +2126,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.107.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.107.0.tgz
     version: 0.107.0
   - apiVersion: v1
     appVersion: 0.106.0
@@ -2143,7 +2142,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.106.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.106.0.tgz
     version: 0.106.0
   - apiVersion: v1
     appVersion: 0.105.0
@@ -2159,7 +2158,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.105.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.105.0.tgz
     version: 0.105.0
   - apiVersion: v1
     appVersion: 0.104.0
@@ -2175,7 +2174,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.104.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.104.0.tgz
     version: 0.104.0
   - apiVersion: v1
     appVersion: 0.103.0
@@ -2191,7 +2190,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.103.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.103.0.tgz
     version: 0.103.0
   - apiVersion: v1
     appVersion: 0.102.0
@@ -2207,7 +2206,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.102.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.102.0.tgz
     version: 0.102.0
   - apiVersion: v1
     appVersion: 0.101.0
@@ -2223,7 +2222,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.101.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.101.0.tgz
     version: 0.101.0
   - apiVersion: v1
     appVersion: 0.100.0
@@ -2239,7 +2238,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.100.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.100.0.tgz
     version: 0.100.0
   - apiVersion: v1
     appVersion: 0.99.0
@@ -2255,7 +2254,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.99.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.99.0.tgz
     version: 0.99.0
   - apiVersion: v1
     appVersion: 0.98.0
@@ -2271,7 +2270,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.98.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.98.0.tgz
     version: 0.98.0
   - apiVersion: v1
     appVersion: 0.97.0
@@ -2287,7 +2286,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.97.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.97.0.tgz
     version: 0.97.0
   - apiVersion: v1
     appVersion: 0.96.0
@@ -2303,7 +2302,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.96.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.96.0.tgz
     version: 0.96.0
   - apiVersion: v1
     appVersion: 0.95.0
@@ -2319,7 +2318,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.95.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.95.0.tgz
     version: 0.95.0
   - apiVersion: v1
     appVersion: 0.94.0
@@ -2335,7 +2334,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.94.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.94.0.tgz
     version: 0.94.0
   - apiVersion: v1
     appVersion: 0.93.0
@@ -2351,7 +2350,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.93.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.93.0.tgz
     version: 0.93.0
   - apiVersion: v1
     appVersion: 0.92.0
@@ -2367,7 +2366,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.92.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.92.0.tgz
     version: 0.92.0
   - apiVersion: v1
     appVersion: 0.91.0
@@ -2383,7 +2382,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.91.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.91.0.tgz
     version: 0.91.0
   - apiVersion: v1
     appVersion: 0.90.0
@@ -2399,7 +2398,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.90.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.90.0.tgz
     version: 0.90.0
   - apiVersion: v1
     appVersion: 0.89.0
@@ -2415,7 +2414,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.89.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.89.0.tgz
     version: 0.89.0
   - apiVersion: v1
     appVersion: 0.88.0
@@ -2431,7 +2430,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.88.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.88.0.tgz
     version: 0.88.0
   - apiVersion: v1
     appVersion: 0.87.0
@@ -2447,7 +2446,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.87.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.87.0.tgz
     version: 0.87.0
   - apiVersion: v1
     appVersion: 0.86.0
@@ -2463,7 +2462,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.86.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.86.0.tgz
     version: 0.86.0
   - apiVersion: v1
     appVersion: 0.85.0
@@ -2479,7 +2478,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.85.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.85.0.tgz
     version: 0.85.0
   - apiVersion: v1
     appVersion: 0.84.0
@@ -2495,7 +2494,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.84.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.84.0.tgz
     version: 0.84.0
   - apiVersion: v1
     appVersion: 0.83.0
@@ -2511,7 +2510,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.83.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.83.0.tgz
     version: 0.83.0
   - apiVersion: v1
     appVersion: 0.82.0
@@ -2527,7 +2526,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.82.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.82.0.tgz
     version: 0.82.0
   - apiVersion: v1
     appVersion: 0.81.0
@@ -2543,7 +2542,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.81.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.81.0.tgz
     version: 0.81.0
   - apiVersion: v1
     appVersion: 0.80.0
@@ -2559,7 +2558,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.80.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.80.0.tgz
     version: 0.80.0
   - apiVersion: v1
     appVersion: 0.79.0
@@ -2575,7 +2574,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.79.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.79.0.tgz
     version: 0.79.0
   - apiVersion: v1
     appVersion: 0.78.0
@@ -2591,7 +2590,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.78.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.78.0.tgz
     version: 0.78.0
   - apiVersion: v1
     appVersion: 0.77.0
@@ -2607,7 +2606,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.77.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.77.0.tgz
     version: 0.77.0
   - apiVersion: v1
     appVersion: 0.76.0
@@ -2623,7 +2622,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.76.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.76.0.tgz
     version: 0.76.0
   - apiVersion: v1
     appVersion: 0.75.0
@@ -2639,7 +2638,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.75.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.75.0.tgz
     version: 0.75.0
   - apiVersion: v1
     appVersion: 0.74.0
@@ -2655,7 +2654,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.74.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.74.0.tgz
     version: 0.74.0
   - apiVersion: v1
     appVersion: 0.73.0
@@ -2671,7 +2670,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.73.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.73.0.tgz
     version: 0.73.0
   - apiVersion: v1
     appVersion: 0.72.0
@@ -2687,7 +2686,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.72.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.72.0.tgz
     version: 0.72.0
   - apiVersion: v1
     appVersion: 0.71.0
@@ -2703,7 +2702,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.71.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.71.0.tgz
     version: 0.71.0
   - apiVersion: v1
     appVersion: 0.70.0
@@ -2719,7 +2718,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.70.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.70.0.tgz
     version: 0.70.0
   - apiVersion: v1
     appVersion: 0.69.0
@@ -2735,7 +2734,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.69.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.69.0.tgz
     version: 0.69.0
   - apiVersion: v1
     appVersion: 0.68.0
@@ -2751,7 +2750,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.68.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.68.0.tgz
     version: 0.68.0
   - apiVersion: v1
     appVersion: 0.67.0
@@ -2767,7 +2766,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.67.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.67.0.tgz
     version: 0.67.0
   - apiVersion: v1
     appVersion: 0.66.0
@@ -2783,7 +2782,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.66.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.66.0.tgz
     version: 0.66.0
   - apiVersion: v1
     appVersion: 0.65.0
@@ -2799,7 +2798,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.65.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.65.0.tgz
     version: 0.65.0
   - apiVersion: v1
     appVersion: 0.64.0
@@ -2815,7 +2814,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.64.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.64.0.tgz
     version: 0.64.0
   - apiVersion: v1
     appVersion: 0.63.0
@@ -2831,7 +2830,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.63.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.63.0.tgz
     version: 0.63.0
   - apiVersion: v1
     appVersion: 0.61.0
@@ -2847,7 +2846,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.61.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.61.0.tgz
     version: 0.61.0
   - apiVersion: v1
     appVersion: 0.60.0
@@ -2863,7 +2862,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.60.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.60.0.tgz
     version: 0.60.0
   - apiVersion: v1
     appVersion: 0.59.0
@@ -2879,7 +2878,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.59.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.59.0.tgz
     version: 0.59.0
   - apiVersion: v1
     appVersion: 0.58.0
@@ -2895,7 +2894,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.58.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.58.0.tgz
     version: 0.58.0
   - apiVersion: v1
     appVersion: 0.57.0
@@ -2911,7 +2910,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.57.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.57.0.tgz
     version: 0.57.0
   - apiVersion: v1
     appVersion: 0.53.0
@@ -2927,7 +2926,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.53.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.53.0.tgz
     version: 0.53.0
   - apiVersion: v1
     appVersion: 0.51.0
@@ -2943,7 +2942,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.51.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.51.0.tgz
     version: 0.51.0
   - apiVersion: v1
     appVersion: 0.50.0
@@ -2959,7 +2958,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.50.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.50.0.tgz
     version: 0.50.0
   - apiVersion: v1
     appVersion: 0.49.0
@@ -2975,7 +2974,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.49.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.49.0.tgz
     version: 0.49.0
   - apiVersion: v1
     appVersion: 0.48.0
@@ -2991,7 +2990,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.48.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.48.0.tgz
     version: 0.48.0
   - apiVersion: v1
     appVersion: 0.45.0
@@ -3007,7 +3006,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.45.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.45.0.tgz
     version: 0.45.0
   - apiVersion: v1
     appVersion: 0.44.0
@@ -3023,7 +3022,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.44.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.44.0.tgz
     version: 0.44.0
   - apiVersion: v1
     appVersion: 0.42.0
@@ -3039,7 +3038,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.42.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.42.0.tgz
     version: 0.42.0
   - apiVersion: v1
     appVersion: 0.41.0
@@ -3055,7 +3054,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.41.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.41.0.tgz
     version: 0.41.0
   - apiVersion: v1
     appVersion: 0.40.0
@@ -3071,7 +3070,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.40.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.40.0.tgz
     version: 0.40.0
   - apiVersion: v1
     appVersion: 0.39.0
@@ -3087,7 +3086,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.39.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.39.0.tgz
     version: 0.39.0
   - apiVersion: v1
     appVersion: 0.36.0
@@ -3103,7 +3102,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.38.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.38.0.tgz
     version: 0.38.0
   - apiVersion: v1
     appVersion: 0.37.0
@@ -3119,7 +3118,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.37.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.37.0.tgz
     version: 0.37.0
   - apiVersion: v1
     appVersion: 0.36.0
@@ -3135,7 +3134,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.36.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.36.0.tgz
     version: 0.36.0
   - apiVersion: v1
     appVersion: 0.35.0
@@ -3151,7 +3150,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.35.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.35.0.tgz
     version: 0.35.0
   - apiVersion: v1
     appVersion: 0.34.0
@@ -3167,7 +3166,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.34.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.34.0.tgz
     version: 0.34.0
   - apiVersion: v1
     appVersion: 0.33.0
@@ -3183,7 +3182,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.33.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.33.0.tgz
     version: 0.33.0
   - apiVersion: v1
     appVersion: 0.32.0
@@ -3199,7 +3198,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.32.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.32.0.tgz
     version: 0.32.0
   - apiVersion: v1
     appVersion: 0.31.0
@@ -3215,7 +3214,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.31.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.31.0.tgz
     version: 0.31.0
   - apiVersion: v1
     appVersion: 0.30.0
@@ -3231,7 +3230,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.30.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.30.0.tgz
     version: 0.30.0
   - apiVersion: v1
     appVersion: 0.30.0
@@ -3247,7 +3246,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.30.0-1-g01816cf.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.30.0-1-g01816cf.tgz
     version: 0.30.0-1-g01816cf
   - apiVersion: v1
     appVersion: 0.29.0
@@ -3263,7 +3262,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.29.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.29.0.tgz
     version: 0.29.0
   - apiVersion: v1
     appVersion: 0.28.0
@@ -3279,7 +3278,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.28.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.28.0.tgz
     version: 0.28.0
   - apiVersion: v1
     appVersion: 0.27.0
@@ -3295,7 +3294,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.27.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.27.0.tgz
     version: 0.27.0
   - apiVersion: v1
     appVersion: 0.26.0
@@ -3311,7 +3310,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.26.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.26.0.tgz
     version: 0.26.0
   - apiVersion: v1
     appVersion: 0.25.0
@@ -3327,7 +3326,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.25.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.25.0.tgz
     version: 0.25.0
   - apiVersion: v1
     appVersion: 0.24.0
@@ -3343,7 +3342,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.24.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.24.0.tgz
     version: 0.24.0
   - apiVersion: v1
     appVersion: 0.23.0
@@ -3359,7 +3358,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.23.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.23.0.tgz
     version: 0.23.0
   - apiVersion: v1
     appVersion: 0.22.0
@@ -3375,7 +3374,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.22.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.22.0.tgz
     version: 0.22.0
   - apiVersion: v1
     appVersion: 0.21.0
@@ -3391,7 +3390,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.21.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.21.0.tgz
     version: 0.21.0
   - apiVersion: v1
     appVersion: 0.20.0
@@ -3407,7 +3406,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.20.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.20.0.tgz
     version: 0.20.0
   - apiVersion: v1
     appVersion: 0.19.0
@@ -3423,7 +3422,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.19.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.19.0.tgz
     version: 0.19.0
   - apiVersion: v1
     appVersion: 0.18.0
@@ -3439,7 +3438,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.18.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.18.0.tgz
     version: 0.18.0
   - apiVersion: v1
     appVersion: 0.18.0
@@ -3455,7 +3454,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.18.0-3-gae6a06c.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.18.0-3-gae6a06c.tgz
     version: 0.18.0-3-gae6a06c
   - apiVersion: v1
     appVersion: 0.17.0
@@ -3471,7 +3470,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.17.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.17.0.tgz
     version: 0.17.0
   - apiVersion: v1
     appVersion: 0.15.0
@@ -3487,7 +3486,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.16.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.16.0.tgz
     version: 0.16.0
   - apiVersion: v1
     appVersion: 0.15.0
@@ -3503,7 +3502,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.15.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.15.0.tgz
     version: 0.15.0
   - apiVersion: v1
     appVersion: 0.14.0
@@ -3519,7 +3518,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.14.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.14.0.tgz
     version: 0.14.0
   - apiVersion: v1
     appVersion: 0.10.0
@@ -3535,7 +3534,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.13.1.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.13.1.tgz
     version: 0.13.1
   - apiVersion: v1
     appVersion: 0.10.0
@@ -3551,7 +3550,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.13.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.13.0.tgz
     version: 0.13.0
   - apiVersion: v1
     appVersion: 0.10.0
@@ -3567,7 +3566,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.12.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.12.0.tgz
     version: 0.12.0
   - apiVersion: v1
     appVersion: 0.10.0
@@ -3583,7 +3582,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.11.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.11.0.tgz
     version: 0.11.0
   - apiVersion: v1
     appVersion: 0.10.0
@@ -3599,7 +3598,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.10.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.10.0.tgz
     version: 0.10.0
   - apiVersion: v1
     appVersion: v0.2.0
@@ -3615,7 +3614,7 @@ entries:
       name: tdmanv
     name: kanister-operator
     urls:
-    - https://charts.kanister.io/kanister-operator-0.9.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.9.0.tgz
     version: 0.9.0
   kanister-postgresql:
   - apiVersion: v1
@@ -3641,7 +3640,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.32.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.32.0.tgz
     version: 0.32.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -3666,7 +3665,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.31.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.31.0.tgz
     version: 0.31.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -3691,7 +3690,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.30.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.30.0.tgz
     version: 0.30.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -3716,7 +3715,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.30.0-1-g01816cf.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.30.0-1-g01816cf.tgz
     version: 0.30.0-1-g01816cf
   - apiVersion: v1
     appVersion: 9.6.2
@@ -3741,7 +3740,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.29.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.29.0.tgz
     version: 0.29.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -3766,7 +3765,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.28.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.28.0.tgz
     version: 0.28.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -3791,7 +3790,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.27.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.27.0.tgz
     version: 0.27.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -3816,7 +3815,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.26.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.26.0.tgz
     version: 0.26.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -3841,7 +3840,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.25.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.25.0.tgz
     version: 0.25.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -3866,7 +3865,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.24.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.24.0.tgz
     version: 0.24.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -3891,7 +3890,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.23.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.23.0.tgz
     version: 0.23.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -3916,7 +3915,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.22.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.22.0.tgz
     version: 0.22.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -3941,7 +3940,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.21.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.21.0.tgz
     version: 0.21.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -3966,7 +3965,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.20.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.20.0.tgz
     version: 0.20.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -3991,7 +3990,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.19.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.19.0.tgz
     version: 0.19.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -4016,7 +4015,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.18.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.18.0.tgz
     version: 0.18.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -4041,7 +4040,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.18.0-3-gae6a06c.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.18.0-3-gae6a06c.tgz
     version: 0.18.0-3-gae6a06c
   - apiVersion: v1
     appVersion: 9.6.2
@@ -4066,7 +4065,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.17.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.17.0.tgz
     version: 0.17.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -4091,7 +4090,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.16.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.16.0.tgz
     version: 0.16.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -4116,7 +4115,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.15.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.15.0.tgz
     version: 0.15.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -4141,7 +4140,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.14.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.14.0.tgz
     version: 0.14.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -4166,7 +4165,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.13.1.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.13.1.tgz
     version: 0.13.1
   - apiVersion: v1
     appVersion: 9.6.2
@@ -4191,7 +4190,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.13.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.13.0.tgz
     version: 0.13.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -4216,7 +4215,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.12.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.12.0.tgz
     version: 0.12.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -4241,7 +4240,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.11.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.11.0.tgz
     version: 0.11.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -4266,7 +4265,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.10.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.10.0.tgz
     version: 0.10.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -4291,7 +4290,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.9.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -4316,7 +4315,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.8.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -4341,7 +4340,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.7.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -4366,7 +4365,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.6.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -4391,7 +4390,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-0.5.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     appVersion: 9.6.2
@@ -4416,7 +4415,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://charts.kanister.io/kanister-postgresql-v0.4.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-postgresql-v0.4.0.tgz
     version: v0.4.0
   profile:
   - apiVersion: v1
@@ -4434,7 +4433,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.111.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.111.0.tgz
     version: 0.111.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4451,7 +4450,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.110.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.110.0.tgz
     version: 0.110.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4468,7 +4467,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.109.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.109.0.tgz
     version: 0.109.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4485,7 +4484,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.108.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.108.0.tgz
     version: 0.108.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4502,7 +4501,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.107.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.107.0.tgz
     version: 0.107.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4519,7 +4518,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.106.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.106.0.tgz
     version: 0.106.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4536,7 +4535,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.105.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.105.0.tgz
     version: 0.105.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4553,7 +4552,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.104.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.104.0.tgz
     version: 0.104.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4570,7 +4569,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.103.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.103.0.tgz
     version: 0.103.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4587,7 +4586,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.102.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.102.0.tgz
     version: 0.102.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4604,7 +4603,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.101.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.101.0.tgz
     version: 0.101.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4621,7 +4620,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.100.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.100.0.tgz
     version: 0.100.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4638,7 +4637,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.99.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.99.0.tgz
     version: 0.99.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4655,7 +4654,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.98.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.98.0.tgz
     version: 0.98.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4672,7 +4671,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.97.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.97.0.tgz
     version: 0.97.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4689,7 +4688,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.96.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.96.0.tgz
     version: 0.96.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4706,7 +4705,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.95.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.95.0.tgz
     version: 0.95.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4723,7 +4722,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.94.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.94.0.tgz
     version: 0.94.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4740,7 +4739,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.93.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.93.0.tgz
     version: 0.93.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4757,7 +4756,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.92.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.92.0.tgz
     version: 0.92.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4774,7 +4773,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.91.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.91.0.tgz
     version: 0.91.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4791,7 +4790,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.90.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.90.0.tgz
     version: 0.90.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4808,7 +4807,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.89.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.89.0.tgz
     version: 0.89.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4825,7 +4824,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.88.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.88.0.tgz
     version: 0.88.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4842,7 +4841,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.87.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.87.0.tgz
     version: 0.87.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4859,7 +4858,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.86.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.86.0.tgz
     version: 0.86.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4876,7 +4875,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.85.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.85.0.tgz
     version: 0.85.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4893,7 +4892,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.84.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.84.0.tgz
     version: 0.84.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4910,7 +4909,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.83.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.83.0.tgz
     version: 0.83.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4927,7 +4926,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.82.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.82.0.tgz
     version: 0.82.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4944,7 +4943,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.81.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.81.0.tgz
     version: 0.81.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4961,7 +4960,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.80.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.80.0.tgz
     version: 0.80.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4978,7 +4977,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.79.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.79.0.tgz
     version: 0.79.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -4995,7 +4994,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.78.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.78.0.tgz
     version: 0.78.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5012,7 +5011,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.77.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.77.0.tgz
     version: 0.77.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5029,7 +5028,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.76.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.76.0.tgz
     version: 0.76.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5046,7 +5045,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.75.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.75.0.tgz
     version: 0.75.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5063,7 +5062,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.74.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.74.0.tgz
     version: 0.74.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5080,7 +5079,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.73.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.73.0.tgz
     version: 0.73.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5097,7 +5096,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.72.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.72.0.tgz
     version: 0.72.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5114,7 +5113,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.71.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.71.0.tgz
     version: 0.71.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5131,7 +5130,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.70.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.70.0.tgz
     version: 0.70.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5148,7 +5147,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.69.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.69.0.tgz
     version: 0.69.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5165,7 +5164,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.68.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.68.0.tgz
     version: 0.68.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5182,7 +5181,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.67.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.67.0.tgz
     version: 0.67.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5199,7 +5198,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.66.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.66.0.tgz
     version: 0.66.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5216,7 +5215,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.65.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.65.0.tgz
     version: 0.65.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5233,7 +5232,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.64.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.64.0.tgz
     version: 0.64.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5250,7 +5249,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.63.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.63.0.tgz
     version: 0.63.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5267,7 +5266,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.61.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.61.0.tgz
     version: 0.61.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5284,7 +5283,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.60.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.60.0.tgz
     version: 0.60.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5301,7 +5300,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.59.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.59.0.tgz
     version: 0.59.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5318,7 +5317,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.58.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.58.0.tgz
     version: 0.58.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5335,7 +5334,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.57.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.57.0.tgz
     version: 0.57.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5352,7 +5351,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.53.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.53.0.tgz
     version: 0.53.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5369,7 +5368,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.51.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.51.0.tgz
     version: 0.51.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5386,7 +5385,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.50.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.50.0.tgz
     version: 0.50.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5403,7 +5402,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.49.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.49.0.tgz
     version: 0.49.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5420,7 +5419,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.48.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.48.0.tgz
     version: 0.48.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5437,7 +5436,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.45.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.45.0.tgz
     version: 0.45.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5454,7 +5453,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.44.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.44.0.tgz
     version: 0.44.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5471,7 +5470,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.42.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.42.0.tgz
     version: 0.42.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5488,7 +5487,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.41.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.41.0.tgz
     version: 0.41.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5505,7 +5504,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.40.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.40.0.tgz
     version: 0.40.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5522,7 +5521,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.39.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.39.0.tgz
     version: 0.39.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5539,7 +5538,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.38.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.38.0.tgz
     version: 0.38.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5556,7 +5555,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.37.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.37.0.tgz
     version: 0.37.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5573,7 +5572,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.36.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.36.0.tgz
     version: 0.36.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5590,7 +5589,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.35.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.35.0.tgz
     version: 0.35.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5607,7 +5606,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.34.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.34.0.tgz
     version: 0.34.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5624,7 +5623,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.33.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.33.0.tgz
     version: 0.33.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5641,7 +5640,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.32.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.32.0.tgz
     version: 0.32.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5658,7 +5657,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.31.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.31.0.tgz
     version: 0.31.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5675,7 +5674,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.30.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.30.0.tgz
     version: 0.30.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5692,7 +5691,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.30.0-1-g01816cf.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.30.0-1-g01816cf.tgz
     version: 0.30.0-1-g01816cf
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5709,7 +5708,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.29.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.29.0.tgz
     version: 0.29.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5726,7 +5725,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.28.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.28.0.tgz
     version: 0.28.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5743,7 +5742,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.27.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.27.0.tgz
     version: 0.27.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5760,7 +5759,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.26.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.26.0.tgz
     version: 0.26.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5777,7 +5776,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.25.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.25.0.tgz
     version: 0.25.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5794,7 +5793,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.24.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.24.0.tgz
     version: 0.24.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5811,7 +5810,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.23.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.23.0.tgz
     version: 0.23.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5828,7 +5827,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.22.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.22.0.tgz
     version: 0.22.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5845,7 +5844,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.21.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.21.0.tgz
     version: 0.21.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5862,7 +5861,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.20.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.20.0.tgz
     version: 0.20.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5879,7 +5878,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.19.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.19.0.tgz
     version: 0.19.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5896,7 +5895,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.18.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.18.0.tgz
     version: 0.18.0
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5913,7 +5912,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.18.0-3-gae6a06c.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.18.0-3-gae6a06c.tgz
     version: 0.18.0-3-gae6a06c
   - apiVersion: v1
     appVersion: 0.1.0
@@ -5930,7 +5929,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.17.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.17.0.tgz
     version: 0.17.0
   - apiVersion: v1
     created: "2019-01-03T17:01:22.555245-08:00"
@@ -5944,7 +5943,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.16.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.16.0.tgz
     version: 0.16.0
   - apiVersion: v1
     created: "2018-12-09T20:28:14.00754044-08:00"
@@ -5958,7 +5957,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.15.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.15.0.tgz
     version: 0.15.0
   - apiVersion: v1
     created: "2018-12-03T16:48:30.124729-08:00"
@@ -5972,7 +5971,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.14.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.14.0.tgz
     version: 0.14.0
   - apiVersion: v1
     created: "2018-11-05T17:26:40.00002-08:00"
@@ -5986,7 +5985,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.13.1.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.13.1.tgz
     version: 0.13.1
   - apiVersion: v1
     created: "2018-10-23T19:50:22.987661286Z"
@@ -6000,7 +5999,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.13.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.13.0.tgz
     version: 0.13.0
   - apiVersion: v1
     created: "2018-10-02T10:35:32.839162708-07:00"
@@ -6014,7 +6013,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.12.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.12.0.tgz
     version: 0.12.0
   - apiVersion: v1
     created: "2018-08-17T15:59:07.515130295-07:00"
@@ -6028,7 +6027,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.11.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.11.0.tgz
     version: 0.11.0
   - apiVersion: v1
     created: "2018-06-29T16:58:24.090652118-07:00"
@@ -6042,7 +6041,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.10.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.10.0.tgz
     version: 0.10.0
   - apiVersion: v1
     created: "2018-06-20T23:35:26.60863215-07:00"
@@ -6056,7 +6055,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.9.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v1
     created: "2018-06-17T22:45:58.109950264-07:00"
@@ -6070,7 +6069,7 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.8.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v1
     created: "2018-06-13T16:13:55.872516327-07:00"
@@ -6084,6 +6083,6 @@ entries:
       name: depohmel
     name: profile
     urls:
-    - https://charts.kanister.io/profile-0.1.0.tgz
+    - https://s3-us-west-2.amazonaws.com/charts.kanister.io/profile-0.1.0.tgz
     version: 0.1.0
 generated: "2024-10-19T06:33:16.984224041Z"
