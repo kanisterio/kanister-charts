@@ -2,6 +2,20 @@ apiVersion: v1
 entries:
   kanister-operator:
   - apiVersion: v1
+    appVersion: 0.114.0
+    created: "2025-07-03T21:42:01.51448444Z"
+    description: Kanister-operator Helm chart for Kubernetes
+    digest: 08239c85c288cb2adb20c1c18bd6a2a527c4d37d24977aef69b90b90bc23453d
+    home: https://kanister.io/
+    icon: https://kasten.io/assets/img/kanister-logo.png
+    maintainers:
+    - email: kanister.maintainers@veeam.com
+      name: Kanister Maintainers
+    name: kanister-operator
+    urls:
+    - https://github.com/kanisterio/kanister/releases/download/0.114.0/kanister-operator-0.114.0.tgz
+    version: 0.114.0
+  - apiVersion: v1
     appVersion: 0.113.0
     created: "2025-02-07T20:35:21.294535283Z"
     description: Kanister-operator Helm chart for Kubernetes
@@ -383,4 +397,4 @@ entries:
     urls:
     - https://s3-us-west-2.amazonaws.com/charts.kanister.io/kanister-operator-0.90.0.tgz
     version: 0.90.0
-generated: "2025-02-07T20:35:21.293752391Z"
+generated: "2025-07-03T21:42:01.513560536Z"
